@@ -1,7 +1,11 @@
 {
-    "navigationBarTitleText": "首页",
+    "navigationBarTitleText": "广现社区1.0",
     "usingComponents": {
-      "i-button": "../../../static/iview/button/index"
+      "i-button": "../../../static/iview/button/index",
+      "i-tabs": "../../../static/iview/tabs/index",
+      "i-tab": "../../../static/iview/tab/index",
+      "i-card": "../../../static/iview/card/index",
+      "i-notice-bar": "../../../static/iview/notice-bar/index"
     }
 }
   
