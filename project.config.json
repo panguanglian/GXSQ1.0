@@ -11,8 +11,10 @@
 	},
 	"miniprogramRoot": "dist/wx/",
 	"compileType": "miniprogram",
-	"appid": "wx73c13a1e77833a29",
+	"appid": "wxd0cb90ac894e71d5",
 	"projectname": "gx-community-1.0",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,

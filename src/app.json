@@ -5,6 +5,10 @@
     "pages/chat/main",
     "pages/chatDetail/main",
     "pages/user/main",
+	"pages/user/moreinfo/main",
+    "pages/user/userinfo/main",
+    "pages/user/classform/main",
+    "pages/user/grade/main",
     "pages/counter/main"
   ],
   "window": {
